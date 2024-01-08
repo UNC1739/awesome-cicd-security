@@ -3,7 +3,7 @@
 CICD-SEC-4: Poisoned Pipeline Execution (PPE) \
 https://owasp.org/www-project-top-10-ci-cd-security-risks/CICD-SEC-04-Poisoned-Pipeline-Execution
 
-# GitHub Actions Security
+# GitHub Actions Security (Offensive)
 
 Keeping your GitHub Actions and workflows secure Part 1: Preventing pwn requests
 https://securitylab.github.com/research/github-actions-preventing-pwn-requests/
@@ -22,6 +22,11 @@ https://www.youtube.com/watch?v=FVK-ssWqVEM
 
 Leaking Secrets From GitHub Actions \
 https://karimrahal.com/2023/01/05/github-actions-leaking-secrets/
+
+# GitHub Actions Security (Defensive)
+
+Approving Workflow Runs from Public Forks \
+https://docs.github.com/en/actions/managing-workflow-runs/approving-workflow-runs-from-public-forks
 
 # Threat Intelligence
 
