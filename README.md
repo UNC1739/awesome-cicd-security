@@ -22,3 +22,11 @@ https://www.youtube.com/watch?v=FVK-ssWqVEM
 
 Leaking Secrets From GitHub Actions \
 https://karimrahal.com/2023/01/05/github-actions-leaking-secrets/
+
+# Tooling
+
+PwnHub \
+https://github.com/nikitastupin/pwnhub
+
+Gato (Github Attack TOolkit) \
+https://github.com/praetorian-inc/gato
