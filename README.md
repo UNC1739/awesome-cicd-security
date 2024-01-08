@@ -28,6 +28,9 @@ https://karimrahal.com/2023/01/05/github-actions-leaking-secrets/
 Surprise: When Dependabot Contributes Malicious Code \
 https://checkmarx.com/blog/surprise-when-dependabot-contributes-malicious-code/
 
+Zuckerpunch: Abusing Self Hosted Github Runners at Facebook \
+https://marcyoung.us/post/zuckerpunch/
+
 # Tooling
 
 PwnHub \
