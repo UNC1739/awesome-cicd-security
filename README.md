@@ -20,5 +20,5 @@ https://johnstawinski.com/2024/01/05/worse-than-solarwinds-three-steps-to-hack-b
 BSidesSF 2023 - Securing the Pipeline: Protecting Self-Hosted GitHub Runners (Adnan Khan) \
 https://www.youtube.com/watch?v=FVK-ssWqVEM
 
-Leaking Secrets From GitHub Actions: Reading Files And Environment Variables, Intercepting Network/Process Communication, Dumping Memory \
+Leaking Secrets From GitHub Actions \
 https://karimrahal.com/2023/01/05/github-actions-leaking-secrets/
