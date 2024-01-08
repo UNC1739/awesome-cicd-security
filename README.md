@@ -23,6 +23,11 @@ https://www.youtube.com/watch?v=FVK-ssWqVEM
 Leaking Secrets From GitHub Actions \
 https://karimrahal.com/2023/01/05/github-actions-leaking-secrets/
 
+# Threat Intelligence
+
+Surprise: When Dependabot Contributes Malicious Code \
+https://checkmarx.com/blog/surprise-when-dependabot-contributes-malicious-code/
+
 # Tooling
 
 PwnHub \
