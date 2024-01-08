@@ -25,7 +25,7 @@ https://karimrahal.com/2023/01/05/github-actions-leaking-secrets/
 
 # GitHub Actions Security (Defensive)
 
-Security Hardening for GitHub Actions
+Security Hardening for GitHub Actions \
 https://docs.github.com/en/actions/security-guides/security-hardening-for-github-actions
 
 Approving Workflow Runs from Public Forks \
