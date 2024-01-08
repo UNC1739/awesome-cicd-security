@@ -31,6 +31,9 @@ https://docs.github.com/en/actions/security-guides/security-hardening-for-github
 Approving Workflow Runs from Public Forks \
 https://docs.github.com/en/actions/managing-workflow-runs/approving-workflow-runs-from-public-forks
 
+Introducing Fine-Grained Personal Access Tokens for GitHub \
+https://github.blog/2022-10-18-introducing-fine-grained-personal-access-tokens-for-github/
+
 # Threat Intelligence
 
 Surprise: When Dependabot Contributes Malicious Code \
