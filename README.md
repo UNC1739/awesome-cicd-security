@@ -17,5 +17,8 @@ https://adnanthekhan.com/2023/12/20/one-supply-chain-attack-to-rule-them-all/
 Worse than SolarWinds: Three Steps to Hack Blockchains, GitHub, and ML through GitHub Actions
 https://johnstawinski.com/2024/01/05/worse-than-solarwinds-three-steps-to-hack-blockchains-github-and-ml-through-github-actions/
 
-BSidesSF 2023 - Securing the Pipeline: Protecting Self-Hosted GitHub Runners (Adnan Khan)
+BSidesSF 2023 - Securing the Pipeline: Protecting Self-Hosted GitHub Runners (Adnan Khan) \
 https://www.youtube.com/watch?v=FVK-ssWqVEM
+
+Leaking Secrets From GitHub Actions: Reading Files And Environment Variables, Intercepting Network/Process Communication, Dumping Memory \
+https://karimrahal.com/2023/01/05/github-actions-leaking-secrets/
