@@ -34,6 +34,9 @@ https://docs.github.com/en/actions/managing-workflow-runs/approving-workflow-run
 Introducing Fine-Grained Personal Access Tokens for GitHub \
 https://github.blog/2022-10-18-introducing-fine-grained-personal-access-tokens-for-github/
 
+Playing with Fire – How We Executed a Critical Supply Chain Attack on PyTorch \
+https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/
+
 # Threat Intelligence
 
 Surprise: When Dependabot Contributes Malicious Code \
