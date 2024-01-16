@@ -23,6 +23,9 @@ https://www.youtube.com/watch?v=FVK-ssWqVEM
 Leaking Secrets From GitHub Actions \
 https://karimrahal.com/2023/01/05/github-actions-leaking-secrets/
 
+Playing with Fire – How We Executed a Critical Supply Chain Attack on PyTorch \
+https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/
+
 # GitHub Actions Security (Defensive)
 
 Security Hardening for GitHub Actions \
@@ -33,9 +36,6 @@ https://docs.github.com/en/actions/managing-workflow-runs/approving-workflow-run
 
 Introducing Fine-Grained Personal Access Tokens for GitHub \
 https://github.blog/2022-10-18-introducing-fine-grained-personal-access-tokens-for-github/
-
-Playing with Fire – How We Executed a Critical Supply Chain Attack on PyTorch \
-https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/
 
 # Threat Intelligence
 
